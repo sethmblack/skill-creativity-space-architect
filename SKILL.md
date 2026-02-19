@@ -4,7 +4,7 @@ description: 'Implement John Cleese''s 5-factor creativity framework to design o
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3713
+  version: 1.0.3714
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - comedy
